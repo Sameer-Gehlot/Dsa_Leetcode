@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
+| [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
