@@ -6,6 +6,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
