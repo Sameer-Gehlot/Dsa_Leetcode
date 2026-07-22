@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -31,4 +32,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
