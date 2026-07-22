@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
