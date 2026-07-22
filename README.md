@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
@@ -26,4 +27,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
