@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
