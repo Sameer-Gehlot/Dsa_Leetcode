@@ -18,6 +18,7 @@
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0704-binary-search) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
