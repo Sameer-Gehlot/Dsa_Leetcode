@@ -68,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
