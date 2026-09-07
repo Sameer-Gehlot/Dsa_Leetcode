@@ -70,6 +70,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,4 +101,5 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
