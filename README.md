@@ -20,6 +20,7 @@
 | [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -64,6 +65,7 @@
 | [0075-sort-colors](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,12 +77,14 @@
 | [0115-distinct-subsequences](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
