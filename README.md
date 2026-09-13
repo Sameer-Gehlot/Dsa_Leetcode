@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0835-image-overlap) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -104,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
