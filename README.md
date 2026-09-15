@@ -43,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0115-distinct-subsequences](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
