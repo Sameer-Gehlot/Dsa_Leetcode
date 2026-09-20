@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
