@@ -19,6 +19,7 @@
 | [0835-image-overlap](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -62,6 +63,7 @@
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -71,6 +73,7 @@
 | [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -104,6 +107,7 @@
 | [0035-search-insert-position](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
@@ -169,6 +173,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
