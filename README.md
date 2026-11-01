@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0217-contains-duplicate) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
