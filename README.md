@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -206,6 +208,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -214,6 +217,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -255,6 +259,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -368,4 +373,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
