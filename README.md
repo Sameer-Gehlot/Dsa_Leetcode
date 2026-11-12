@@ -40,6 +40,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sameer-Gehlot/Dsa_Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
